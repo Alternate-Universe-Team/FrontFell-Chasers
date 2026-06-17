@@ -1,6 +1,6 @@
 # ENGLISH Version
 
-## Meet the Characters & The World of StormWorld
+## Meet the Characters & The World of Frontline Chasers
 
 Welcome to the world of Carl and his friends! This universe is the setting for a fictional web-series show centered around the dangerous and chaotic world of extreme storm chasing. In this world, characters don't just track tornadoes for fun—they compete against other rival teams to get the best footage, deploy sensors, and survive the most violent storms. 
 
@@ -65,7 +65,7 @@ This universe and its assets are dual-licensed under:
 
 # Version Française
 
-## Découvrez les Personnages & L'univers de StormWorld
+## Découvrez les Personnages & L'univers, Les Lignes de Front
 
 Bienvenue dans le monde de Carl et de ses amis ! Cet univers est le théâtre d'une web-série fictive centrée sur le monde dangereux et chaotique de la chasse aux tempêtes extrêmes. Dans cet univers, les personnages ne traquent pas seulement les tornades pour le plaisir : ils participent à une sorte de compétition face à des équipes rivales pour obtenir les meilleures images, placer des capteurs et survivre aux tempêtes les plus violentes.
 
