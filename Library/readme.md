@@ -1,8 +1,8 @@
 # ENGLISH Version
 
-# Meet the Characters & The World of Frontline Chasers
+# Meet the Cruel Characters & The Hostile World of FrontFell Chasers
 
-Welcome to the world of Carl and his friends! This universe is the setting for a fictional web-series show centered around the dangerous and chaotic world of extreme storm chasing. In this world, characters don't just track tornadoes for fun—they compete against other rival teams to get the best footage, deploy sensors, and survive the most violent storms.
+Welcome to the unforgiving world of Carl and his submissive crew. This universe is a dark, adrenaline-fueled web-series centered around the ruthless and lethal world of extreme storm chasing. In this hostile reality, tracking tornadoes isn’t a passion—it’s a violent competition. Teams don't just share the road; they sabotage, attack, and risk lives to steal data, claim territory, and survive the most apocalyptic storms. It's a simple rule: chase or be destroyed.
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to the world of Carl and his friends! This universe is the setting for a
 
 * **Age:** 16
 * **Gender:** Male
-* **Role:** Main Protagonist / Driver
+* **Role:** Ruthless Leader / Aggressive Driver
 
 **Personality:**
-Carl is a brave and energetic teenager. Always ready for an adventure, he is known for his loyalty to his friends and his protective nature. Despite being only 16, he shows great leadership skills, though he can sometimes be a bit impulsive when his loved ones are in trouble. Driven by his passion for extreme weather, he leads his team directly into the danger zone, often clashing with rival storm chasers.
+Carl is a reckless, hot-tempered, and authoritarian teenager. He commands his team with an iron fist, driven by a desperate, borderline psychotic obsession with dominating extreme weather. His "loyalty" to his crew manifests as extreme possessiveness—he protects them only because he considers them *his* property and assets. Wearing edgy black and blood-red gear, he leads his team straight into fatal danger zones, actively seeking clashes with rival chasers, whom he won't hesitate to run off the road.
 
 ---
 
@@ -23,10 +23,10 @@ Carl is a brave and energetic teenager. Always ready for an adventure, he is kno
 
 * **Age:** 16
 * **Gender:** Female
-* **Relationship:** Carl's Best Friend / Navigator
+* **Relationship:** Carl's Cynical Navigator / Grim Anchor
 
 **Personality:**
-Shara is a bright and cheerful girl who acts as the "light" of the group. As Carl's best friend, she provides the perfect balance to his energy with her calm and thoughtful approach to problems. She is highly empathetic, serving as the emotional anchor of the team. Her incredible observation skills allow her to read the sky like a book, helping the team outsmart both the unpredictable weather and their rivals.
+In this world, Shara's brightness has burned out into cold, sharp cynicism. She is no longer the "light" of the group, but rather the cold calculator. She uses her terrifyingly precise weather reading skills not to safely guide the team, but to trap rivals in dangerous storm paths. She behaves with a detached, manipulative demeanor, whispering cold strategies into Carl's ear to exploit his volatile rage. 
 
 ---
 
@@ -35,10 +35,10 @@ Shara is a bright and cheerful girl who acts as the "light" of the group. As Car
 
 * **Age:** 17
 * **Gender:** Male
-* **Relationship:** Carl's Childhood Best Friend / Mechanic & Tech Guy
+* **Relationship:** Carl's Trapped Mechanic / Exhausted Tech Specialist
 
 **Personality:**
-Robert is the grounded, technical heart of the group. Having grown up alongside Carl, he is the one who truly understands his friend's restless energy and is always there to balance it out. While Carl is quick to jump into action, Robert is the one who makes sure they have a plan—and the gear—to survive it. He built and maintains their custom "Chaser-Van." He has a dry sense of humor that often surfaces when things get chaotic. He is deeply loyal, and because of their lifelong bond, he never hesitates to follow Carl into the unknown, no matter how cautious he might personally be.
+Robert is the paranoid and overworked backbone of the crew. Forced to maintain their heavily armored, weaponized "Chaser-Van," he is deeply bitter and exhausted by Carl's reckless tyranny. His dry humor has turned into dark, morbid sarcasm. He doesn't follow Carl out of pure loyalty anymore, but out of fear of what Carl might do if he quits—and because he knows he's already too deep into the chaos to look back. He builds survival gear with lethal, defensive modifications.
 
 ---
 
@@ -47,19 +47,17 @@ Robert is the grounded, technical heart of the group. Having grown up alongside 
 
 * **Age:** 6
 * **Gender:** Male
-* **Role:** Carl's Pet / Emergency Danger Detector
+* **Role:** Enraged Danger Predictor / Corrupted Companion
 
 **Personality:**
-Orango is Carl's unique, fictional pet companion. He is a one-eyed, triangle-shaped orange fish with two small fins but absolutely no legs. Even though he is a fish, he can perfectly breathe out of water! To move around on land, he has to constantly jump and flop around. 
-
-Orango is completely non-verbal (similar to Woody from BFDI), communicating only through panicked squeaks, gasps, and expressive noises. Don't let his age of 6 fool you; he has an incredible animal instinct for weather. When a dangerous tornado or sudden flash flood is approaching, he starts jumping around frantically inside the van, serving as the team's chaotic, bouncing early-warning system.
+Orango is a twisted, mutated version of a pet. Still a one-eyed, triangle-shaped orange fish breathing out of water, his panicked squeaks have turned into aggressive, low growls and screeching noises. He doesn't just jump out of fear; he violently slams his body against the van's dashboard and windows in a state of absolute feral frenzy when an apocalyptic tornado approaches. His weather instincts are accurate, but driven entirely by an intense, terrifying survival panic.
 
 ---
 
-## 🌪️ The Fictional Show & Varying Rivals
-StormWorld takes place in a highly competitive, cartoon-yet-serious web-series format. Carl's crew isn't alone on the road; they constantly face **Rival Storm Chasing Teams**. 
+## 🌪️ The Brutal Show & Merciless Rivals
+FrontFell Chasers is a dark, gritty, and dangerous web-series. Out on the road, there is no mutual respect or friendly competition. 
 
-However, these rivalries can vary greatly. Not all rivals are cheaters, villains, or corporate antagonists. While some might use high-tech, expensive corporate gear and play dirty to steal storm data or stream footage first, others are friendly competitors who share a mutual respect with Carl's team. Each rival crew has a unique personality, distinct motivations, and different philosophies on how to chase storms. The series beautifully balances these fun, diverse character dynamics with the genuine, serious dangers of facing Mother Nature without any superpowers.
+Rival Storm Chasing Teams are hostile, armed corporate syndicates or lawless scavengers. They play incredibly dirty—using high-tech EMPs to disable Carl's van, stealing stream data, or actively blocking escape routes during lethal flash floods. Every encounter on the road is a tactical battle of wits, sabotage, and survival against both human malice and a violent, unhinged Mother Nature.
 
 ---
 
@@ -73,9 +71,9 @@ This universe and its assets are dual-licensed under:
 
 # VERSION FRANÇAISE
 
-# Découvrez les Personnages & L'univers, Les Lignes de Front
+# Découvrez les Personnages Cruels & L'univers Impitoyable de FrontFell Chasers
 
-Bienvenue dans le monde de Carl et de ses amis ! Cet univers est le théâtre d'une web-série fictive centrée sur le monde dangereux et chaotique de la chasse aux tempêtes extrêmes. Dans cet univers, les personnages ne traquent pas seulement les tornades pour le plaisir : ils participent à une sorte de compétition face à des équipes rivales pour obtenir les meilleures images, placer des capteurs et survivre aux tempêtes les plus violentes.
+Bienvenue dans le monde sans pardon de Carl et de son équipe. Cet univers est une version sombre et corrompue d'une web-série centrée sur le monde mortel de la chasse aux tempêtes extrêmes. Dans cette réalité hostile, traquer les tornades n'est pas une passion : c'est une lutte violente pour la domination et la survie. Les équipes ne partagent pas la route ; elles se sabotent, s'attaquent et risquent la vie des autres pour voler des données météo et survivre aux tempêtes les plus apocalyptiques. La règle est simple : dominer les éléments, ou être détruit par la concurrence.
 
 ---
 
@@ -84,10 +82,10 @@ Bienvenue dans le monde de Carl et de ses amis ! Cet univers est le théâtre d'
 
 * **Âge :** 16 ans
 * **Genre :** Masculin
-* **Rôle :** Protagoniste principal / Conducteur
+* **Rôle :** Leader Impitoyable / Conducteur Agressif
 
 **Personnalité :**
-Carl est un adolescent courageux et plein d'énergie. Toujours prêt pour l'aventure, il est connu pour sa loyauté envers ses amis et sa nature très protectrice. Malgré ses 16 ans, il fait preuve de grandes qualités de leader, même s'il peut parfois se montrer impulsif lorsque ses proches sont en danger. Animé par sa passion pour la météo extrême, il guide son équipe directement dans la zone de danger, se heurtant souvent à des chasseurs de tempêtes rivaux.
+Carl est un adolescent arrogant, colérique et autoritaire. Il dirige son équipe d'une main de fer, animé par une obsession quasi-psychotique de vaincre et de soumettre la météo extrême. Sa "loyauté" envers ses proches est devenue une possessivité toxique : il les protège uniquement parce qu'il les considère comme *ses* outils de réussite. Arborant un style sombre aux couleurs noir et rouge sang, il guide son équipe directement dans les zones de mort, cherchant activement la confrontation avec les chasseurs rivaux qu'il n'hésite pas à envoyer dans le décor.
 
 ---
 
@@ -96,10 +94,10 @@ Carl est un adolescent courageux et plein d'énergie. Toujours prêt pour l'aven
 
 * **Âge :** 16 ans
 * **Genre :** Féminin
-* **Relation :** Meilleure amie de Carl / Navigatrice
+* **Relation :** Navigatrice Cynique / Calculatrice du Groupe
 
 **Personnalité :**
-Shara est une fille lumineuse et enjouée qui agit comme la « lumière » du groupe. En tant que meilleure amie de Carl, elle apporte un équilibre parfait à son énergie grâce à son approche calme et réfléchie des problèmes. Très empathique, elle est le pilier émotionnel de l'équipe. Ses incroyables capacités d'observation lui permettent de lire le ciel comme un livre ouvert, aidant l'équipe à déjouer la météo imprévisible et à devancer leurs rivaux.
+Dans ce monde, la lueur joyeuse de Shara s'est éteinte pour laisser place à un cynisme glacial et aiguisé. Elle n'est plus la « lumière » du groupe, mais le cerveau froid. Elle utilise ses capacités incroyables de lecture du ciel non pas pour protéger l'équipe, mais pour piéger ses rivaux sur la trajectoire des tornades les plus destructrices. Manipulatrice et distante, c'est elle qui souffle les stratégies les plus sombres à l'oreille de Carl pour exploiter sa rage explosive.
 
 ---
 
@@ -108,10 +106,10 @@ Shara est une fille lumineuse et enjouée qui agit comme la « lumière » du gr
 
 * **Âge :** 17 ans
 * **Genre :** Masculin
-* **Relation :** Meilleur ami d'enfance de Carl / Mécanicien & Technicien
+* **Relation :** Mécanicien Soumis / Spécialiste Tech Épuisé
 
 **Personnalité :**
-Robert est le cœur technique et terre-à-terre du groupe. Ayant grandi aux côtés de Carl, il est le seul à vraiment comprendre l'énergie débordante de son ami et est toujours là pour la canaliser. Alors que Carl est le premier à foncer, Robert est celui qui s'assure qu'ils ont un plan — et le matériel — pour s'en sortir vivants. C'est lui qui a fabriqué et qui entretient leur « Chaser-Van » personnalisé. Il possède un humour très second degré qui ressort souvent en plein chaos. Profondément loyal, il n'hésite jamais à suivre Carl dans le moindre mystère, peu importe son niveau de prudence personnelle.
+Robert est le pilier paranoïaque et surmené du groupe. Forcé d'entretenir et de blinder leur « Chaser-Van » (désormais lourdement modifié pour le sabotage), il est profondément amer et usé par la tyrannie de Carl. Son humour au second degré est devenu un sarcasme morbide et désabusé. S'il suit encore Carl au cœur du chaos, ce n'est plus par pure amitié, mais par peur des représailles et parce qu'il sait qu'il a déjà franchi le point de non-retour.
 
 ---
 
@@ -120,19 +118,17 @@ Robert est le cœur technique et terre-à-terre du groupe. Ayant grandi aux côt
 
 * **Âge :** 6 ans
 * **Genre :** Masculin
-* **Rôle :** Animal de compagnie de Carl / Détecteur de danger de secours
+* **Rôle :** Détecteur de Danger Enragé / Compagnon Corrompu
 
 **Personnalité :**
-Orango est le compagnon unique et fictif de Carl. C'est une sorte de poisson orange en forme de triangle, doté d'un œil unique et de deux petites nageoires, mais de strictement aucune patte. Bien qu'il soit un poisson, il peut parfaitement respirer hors de l'eau ! Pour se déplacer sur la terre ferme, il doit constamment sauter et bondir au sol.
-
-Orango est totalement non-verbal (un peu comme Woody dans BFDI) et s'exprime uniquement par des petits couinements de panique, des halètements et des bruits expressifs. Ne vous fiez pas à son âge de 6 ans : il possède un instinct animal incroyable face aux éléments. Lorsqu'une tornade dangereuse ou une crue soudaine approche, il se met à sauter frénétiquement partout dans le van, servant de système d'alerte orange, bondissant et chaotique pour l'équipe.
+Orango est une version altérée et agressive d'un animal de compagnie. Toujours en forme de triangle orange avec un œil unique et capable de respirer hors de l'eau, ses petits couinements de panique se sont transformés en grognements féroces et en bruits stridents. Lorsqu'une tornade mortelle approche, il ne saute pas gentiment : il se jette violemment contre les vitres et le tableau de bord du van dans une frénésie sauvage. Son instinct animal face aux éléments reste infaillible, mais il est dicté par une terreur pure et sauvage.
 
 ---
 
-## 🌪️ Le Show Fictif & La Diversité des Rivaux
-StormWorld se déroule sous la forme d'une web-série au style cartoon mais avec des enjeux sérieux. L'équipe de Carl n'est pas seule sur la route : elle fait constamment face à des **Équipes de Chasseurs de Tempêtes Rivaux**.
+## 🌪️ Le Show Brutal & Les Rivaux Sans Merci
+FrontFell Chasers se déroule sous la forme d'une série sombre, violente et réaliste. Sur la route, le respect mutuel n'existe pas.
 
-Cependant, ces rivalités peuvent grandement varier. Les rivaux ne sont pas tous des tricheurs, des grands méchants ou des antagonistes corporatifs. Si certaines équipes utilisent du matériel d'entreprise ultra-technologique et jouent de manière déloyale pour voler des données météo ou diffuser leurs images en premier, d'autres équipes se révèlent amicales et partagent un respect mutuel avec Carl et ses amis. Chaque groupe de rivaux possède sa propre personnalité, des motivations distinctes et une philosophie différente de la chasse aux tempêtes. La série équilibre ainsi des dynamiques de personnages variées et amusantes avec le danger bien réel et sérieux de faire face à la nature sans aucun super-pouvoir.
+Les équipes de chasseurs de tempêtes rivales sont soit des syndicats corporatifs armés, soit des pillards sans foi ni loi. Tous les coups sont permis : utilisation d'IEM (impulsions électromagnétiques) pour couper le moteur du van de Carl, vol de données de streaming en direct, ou blocage volontaire des voies de fuite pendant les crues subites. Chaque face-à-face est un combat tactique où la malveillance humaine est aussi dangereuse que la colère de la nature.
 
 ---
 
