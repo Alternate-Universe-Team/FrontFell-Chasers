@@ -19,7 +19,7 @@ Carl is a brave and energetic teenager. Always ready for an adventure, he is kno
 ---
 
 ## About Shara (Artist Name: CloudySunny)
-![CloudySunny](https://raw.githubusercontent.com/Alternate-Universe-Team/FrontFell-Chasers/refs/heads/main/Library/Characters/FellCloudySunny/FellCloudySunny2.svg)
+![CloudySunny](https://raw.githubusercontent.com/Alternate-Universe-Team/FrontFell-Chasers/refs/heads/main/Library/Characters/FellCloudySunny/FellCloudySunny.svg)
 
 * **Age:** 16
 * **Gender:** Female
@@ -92,7 +92,7 @@ Carl est un adolescent courageux et plein d'énergie. Toujours prêt pour l'aven
 ---
 
 ## À propos de Shara (Nom d'artiste : CloudySunny)
-![CloudySunny](https://raw.githubusercontent.com/Alternate-Universe-Team/FrontFell-Chasers/refs/heads/main/Library/Characters/FellCloudySunny/FellCloudySunny2.svg)
+![CloudySunny](https://raw.githubusercontent.com/Alternate-Universe-Team/FrontFell-Chasers/refs/heads/main/Library/Characters/FellCloudySunny/FellCloudySunny.svg)
 
 * **Âge :** 16 ans
 * **Genre :** Féminin
